@@ -1,0 +1,6 @@
+python-dotenv==1.1.1
+langgraph>=1.0.0a4
+langchain-google-genai>=2.0.10
+langchain-core>=0.3.80
+pydantic>=2.7.4
+google-generativeai>=0.8.0
